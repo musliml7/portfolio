@@ -1,0 +1,32 @@
+.header {
+    background-color: #fff;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    }
+    
+    .logo {
+    font-size: 24px;
+    margin: 0;
+    }
+    
+    .logo span {
+    font-weight: normal;
+    }
+
+    nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+    }
+
+    nav a {
+    text-decoration: none;
+    color: #000;
+    }
+    
+    nav a:hover {
+    text-decoration: underline;
+    }
+    
