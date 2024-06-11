@@ -3,7 +3,7 @@ import ProfileCard from './ProfileCard'
 import { Link } from 'react-router-dom';
 import './Header.css';
 import Content from './Content';
-
+import Footer from './Footer';
 function Header() {
     return (
         <>
@@ -43,7 +43,9 @@ function Header() {
                 </div>
             </div>
             {/* ------------- */}
-            {/* footerni uzi */}
+            <br />
+            <br />
+            <Footer />
         </>
     );
 }
