@@ -1,5 +1,6 @@
 import React from 'react';
 import ProfileCard from './ProfileCard'
+import { Link } from 'react-router-dom';
 import './Header.css';
 import Content from './Content';
 
@@ -17,7 +18,11 @@ function Header() {
                             <ul>
                                 <li><a href="#about">ABOUT ME</a></li>
                                 <li><a href="#resume">RESUME</a></li>
-                                <li><a href="#projects">PROJECTS</a></li>
+                                <li>
+                                    <Link to="/projects">
+                                        Projects
+                                    </Link>
+                                </li>
                                 <li><a href="#contact">CONTACT</a></li>
                             </ul>
                         </nav>
