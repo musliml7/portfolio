@@ -1,18 +1,11 @@
 import React from 'react';
 import './App.css';
-import Header from './Header';
-import ProfileCard from './ProfileCard';
-import Content from './Content';
-
+import Header from './Header'
 function App() {
     return (
-    <div className="App">
-        <Header />
-        <div className="main-content">
-        <ProfileCard />
-        <Content />
-        </div>
-    </div>
+        <>
+            <Header />
+        </>
     );
 }
 
