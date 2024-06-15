@@ -5,6 +5,7 @@ import Header from './components/Header';
 import ProfileCard from './components/ProfileCard';
 import About from './components/About'
 import Projects from './components/Projects';
+import './components/Res.css'
 function App() {
     return (
         <>
