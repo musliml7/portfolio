@@ -1,11 +1,10 @@
 .App {
     text-align: center;
     font-family: Arial, sans-serif;
-    }
-    
-    .main-content {
+}
+
+.main-content {
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    }
-    
+}

@@ -4,13 +4,13 @@
     border-radius: 10px;
     text-align: center;
     width: 300px;
-    }
-    
-    .profile-picture img {
+}
+
+.profile-picture img {
     border-radius: 50%;
-    }
-    
-    .follow-btn {
+}
+
+.follow-btn {
     margin-top: 10px;
     padding: 10px 20px;
     background-color: #000;
@@ -18,9 +18,8 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    }
-    
-    .follow-btn:hover {
+}
+
+.follow-btn:hover {
     background-color: #333;
-    }
-    
+}

@@ -30,7 +30,6 @@ function Header() {
                     </div>
                 </div>
             </div>
-            {/* ----------------------- */}
             <br /><br />
             <br /><br />
             <div className="container">
@@ -43,7 +42,6 @@ function Header() {
                     </div>
                 </div>
             </div>
-            {/* ------------- */}
             <br />
             <br />
             <Footer />

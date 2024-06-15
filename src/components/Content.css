@@ -1,29 +1,31 @@
 .content {
     max-width: 100%;
     text-align: left;
-    }
+}
 
-    .buttons {
+.buttons {
     margin: 20px 0;
-    }
+}
 
-    .resume-btn, .projects-btn {
+.resume-btn,
+.projects-btn {
     padding: 10px 20px;
     margin-right: 10px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    }
-    
-    .resume-btn {
+}
+
+.resume-btn {
     background-color: #000;
     color: #fff;
-    }
+}
 
-    .projects-btn {
+.projects-btn {
     background-color: #0000008c;
-    }
+}
 
-    .resume-btn:hover, .projects-btn:hover {
+.resume-btn:hover,
+.projects-btn:hover {
     opacity: 0.8;
-    }  
+}
