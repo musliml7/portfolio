@@ -3,8 +3,8 @@ import React from 'react'
 export default function Projects() {
     return (
         <div className="container">
-            <div className="row">
-                <div className="col-4">
+            <div className="row change_mb_3">
+                <div className="col-4 change_col_4">
                     <div className="card">
                         <img src={'https://pmsolutionsja.com/wp-content/uploads/2018/04/project.jpg'} className="card-img-top" alt="" />
                         <div className="card-body">
@@ -16,7 +16,7 @@ export default function Projects() {
                         </div>
                     </div>
                 </div>
-                <div className="col-4">
+                <div className="col-4 change_col_4">
                     <div className="card">
                         <img src={'https://pmsolutionsja.com/wp-content/uploads/2018/04/project.jpg'} className="card-img-top" alt="" />
                         <div className="card-body">
@@ -28,7 +28,7 @@ export default function Projects() {
                         </div>
                     </div>
                 </div>
-                <div className="col-4">
+                <div className="col-4 change_col_4">
                     <div className="card">
                         <img src={'https://pmsolutionsja.com/wp-content/uploads/2018/04/project.jpg'} className="card-img-top" alt="" />
                         <div className="card-body">

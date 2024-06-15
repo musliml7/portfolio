@@ -5,10 +5,6 @@ function Content() {
     return (
         <>
             <div className="container">
-                <div className="row">
-                    <div className="col-6"></div>
-                    <div className="col-6"></div>
-                </div>
                 <h2>HELLO EVERYONE</h2>
                 <p>Here's Who I am & What I do.</p>
                 <div className="buttons">

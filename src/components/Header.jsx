@@ -10,15 +10,23 @@ function Header() {
         <>
             <br />
             <div className="container">
-                <div className="row">
+                <div className="row change_mb_2">
                     <div className="col-6">
                         <h1 className="logo">NAME HERE / <span>PRODUCT DESIGNER</span></h1>
                     </div>
                     <div className="col-6">
                         <nav>
                             <ul>
-                                <li><a href="#about">ABOUT ME</a></li>
-                                <li><a href="#resume">RESUME</a></li>
+                                <li>
+                                    <a href="#about">
+                                        ABOUT ME
+                                        </a>
+                                    </li>
+                                <li>
+                                    <a href="#resume">
+                                        RESUME
+                                        </a>
+                                    </li>
                                 <li>
                                     <Link to="/projects">
                                         Projects
@@ -33,7 +41,7 @@ function Header() {
             <br /><br />
             <br /><br />
             <div className="container">
-                <div className="row">
+                <div className="row change_mb_1">
                     <div className="col-6">
                         <ProfileCard />
                     </div>
